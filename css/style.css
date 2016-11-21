@@ -1,0 +1,44 @@
+#img {
+	height:450px;
+	width: 650px;
+	
+}
+
+body {
+	width: 100%;
+	display: flex;
+	flex-direction: column;
+	align-items: center;
+	align-content: center;
+	height: auto;
+	margin: 0px;
+}
+
+#change {
+	text-align: center;
+}
+
+.material-icons.white { 
+	color: black; 
+	cursor: pointer;
+	position: relative;
+	bottom: 200px;
+}
+
+.material-icons.md-48 { 
+	font-size: 68px; 
+}
+
+.material-icons.grey { 
+	color: darkslategrey; 
+	cursor: pointer;
+	padding: 10px;
+}
+
+.material-icons.md128 { 
+	font-size: 15px; 
+}
+
+.material-icons.black {
+	cursor: pointer;
+}
